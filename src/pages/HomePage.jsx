@@ -32,7 +32,7 @@ const HomePage = () => {
         <div className="hero-bg" />
         <div className="hero-overlay" />
         <div className="hero-content">
-          <div className="hero-eyebrow">✦ Frost Airlines — Premium Class</div>
+          <div className="hero-eyebrow">✦ AVIATIONIC — Premium Class</div>
           <h1 className="hero-title">Where shall we<br />take you today?</h1>
           <p className="hero-subtitle">20+ routes across India's finest destinations</p>
         </div>
