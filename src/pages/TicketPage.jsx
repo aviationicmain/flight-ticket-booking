@@ -148,7 +148,7 @@ const TicketPage = () => {
           }}>
             <div>
               <div style={{ fontSize: 11, fontWeight: 700, letterSpacing: '0.16em', color: 'rgba(255,255,255,0.75)', textTransform: 'uppercase', marginBottom: 4 }}>
-                ✈ Frost Airlines
+                ✈ AVIATIONIC
               </div>
               <div style={{ fontSize: 11, fontWeight: 600, color: 'rgba(255,255,255,0.6)', letterSpacing: '0.05em' }}>
                 {flight.airline} · {flight.flightNumber}
