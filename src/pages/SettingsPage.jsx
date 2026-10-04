@@ -162,11 +162,11 @@ const SettingsPage = () => {
             {/* App Info */}
             <div className="book-card">
               <div style={{ fontSize: 13, color: 'var(--text-secondary)', lineHeight: 2.2 }}>
-                <div style={{ fontWeight: 700, color: 'var(--text-primary)', marginBottom: 8 }}>✈ Frost Airlines</div>
+                <div style={{ fontWeight: 700, color: 'var(--text-primary)', marginBottom: 8 }}>✈ AVIATIONIC</div>
                 <div>Version: 2.0.0</div>
                 <div>Backend: JSON Server (REST)</div>
                 <div>Build: React + Parcel</div>
-                <div style={{ marginTop: 8, fontSize: 12, color: 'var(--text-muted)' }}>© 2026 Frost Airlines. All rights reserved.</div>
+                <div style={{ marginTop: 8, fontSize: 12, color: 'var(--text-muted)' }}>© 2026 AVIATIONIC. All rights reserved.</div>
               </div>
             </div>
           </div>
