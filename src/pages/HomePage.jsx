@@ -33,7 +33,7 @@ const HomePage = () => {
         <div className="hero-overlay" />
         <div className="hero-content">
           <div className="hero-eyebrow">✦ AVIATIONIC — Premium Class</div>
-          <h1 className="hero-title">Where shall we<br />take you today?</h1>
+          <h1 className="hero-title">ARMAN MOMEN<br />FAISAL</h1>
           <p className="hero-subtitle">20+ routes across India's finest destinations</p>
         </div>
       </div>
@@ -78,7 +78,7 @@ const HomePage = () => {
 
         {/* ── Popular Routes ── */}
         <div className="section-title">Popular Destinations</div>
-        <div className="section-sub">Click any route to instantly discover available flights</div>
+        <div className="section-sub">COMING SOON</div>
         <div className="routes-grid">
           {POPULAR_ROUTES.map((route, i) => (
             <div
