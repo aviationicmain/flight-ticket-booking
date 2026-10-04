@@ -51,8 +51,8 @@ const Sidebar = () => {
         >
           <div className="brand-icon">✈</div>
           <div>
-            <div className="brand-text">Frost Airlines</div>
-            <div className="brand-sub">Fly · Book · Explore</div>
+            <div className="brand-text">AVIATIONIC</div>
+            <div className="brand-sub">Branch of AM INTERNATIONAL</div>
           </div>
         </div>
 
